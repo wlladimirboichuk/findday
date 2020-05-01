@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Week Finder.xcodeproj">
+      location = "self:WeekdayFinder.xcodeproj">
    </FileRef>
 </Workspace>
