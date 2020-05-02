@@ -1,2 +1,2 @@
 # findday
-This is simple app for my girl
+It's simple app for easy finding days in **years**.
